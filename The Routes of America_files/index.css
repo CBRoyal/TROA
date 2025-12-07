@@ -2,7 +2,7 @@
     --routes-of-america-navbar-links-hover-color: #ffa500;
     --routes-of-america-navbar-links-visited-color: #ffff00;
 }
-#background_us_image, #main_highway_title_image, #main_interstate_highway_title_image{
+#background_us_image, #main_highway_title_image{
     margin-left: auto;
     margin-right: auto;
 }
