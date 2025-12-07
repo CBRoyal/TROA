@@ -1,3 +1,7 @@
+:root{
+    --routes-of-america-navbar-links-hover-color: #ffa500;
+    --routes-of-america-navbar-links-visited-color: #ffff00;
+}
 #background_u.s._image, #main_highway_title_image{
     position: fixed;
     margin-left: auto;
@@ -28,4 +32,10 @@
 }
 #routes_of_america_navbar li a{
     padding: 5px 10px;
+}
+#routes_of_america_navbar li a:hover{
+    color: var(--routes-of-america-navbar-links-hover-color);
+}
+#routes_of_america_navbar li a:visited{
+    color: var(--routes-of-america-navbar-links-visited-color);
 }
