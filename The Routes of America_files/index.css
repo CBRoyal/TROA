@@ -1,4 +1,5 @@
 #background_u.s._image, #main_highway_title_image{
+    position: fixed;
     margin-left: auto;
     margin-right: auto;
 }
