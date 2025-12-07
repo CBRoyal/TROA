@@ -18,3 +18,13 @@
 #main_page_u.s._highway_pictures, #main_page_other_routes_and_highways_pictures{
     float: left;
 }
+#routes_of_america_navbar ul{
+    list-style-type: none;
+    padding: 5px 0;
+}
+#routes_of_america_navbar li{
+    padding: 5px 0;
+}
+#routes_of_america_navbar li a{
+    padding: 5px 10px;
+}
