@@ -2,3 +2,13 @@
     margin-left: auto;
     margin-right: auto;
 }
+#background_interstate_sign{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+.webpage_titles{
+    position: absolute;
+    font-family: "Permanent Marker", cursive, sans-serif;
+    font-size: 25px;
+}
