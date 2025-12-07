@@ -12,3 +12,9 @@
     font-family: "Permanent Marker", cursive, sans-serif;
     font-size: 25px;
 }
+#main_page_interstate_highway_pictures, #main_page_state_route_pictures{
+    float: right;
+}
+#main_page_u.s._highway_pictures, #main_page_other_routes_and_highways_pictures{
+    float: left;
+}
