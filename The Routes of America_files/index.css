@@ -5,8 +5,8 @@
 }
 #background_interstate_sign{
     position: absolute;
-    margin-left: auto;
-    margin-right: auto;
+    left: 100px;
+    top: 50px;
 }
 #webpage_title{
     position: absolute;
