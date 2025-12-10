@@ -18,19 +18,9 @@
 #main_page_us_highway_pictures, #main_page_other_routes_and_highways_pictures{
     float: left;
 }
-#routes_of_america_navbar ul{
-    list-style-type: none;
-    padding: 5px 0;
-}
-#routes_of_america_navbar li{
-    padding: 5px 0;
-}
-#routes_of_america_navbar li a{
-    padding: 5px 10px;
-}
-#routes_of_america_navbar li a:hover, #copyright_link:hover, #web_portfolio_link:hover{
+#routes_of_america_navbar a:hover, #copyright_link:hover, #web_portfolio_link:hover{
     color: orange;
 }
-#routes_of_america_navbar li a:visited, #copyright_link:visited, #web_portfolio_link:visited{
+#routes_of_america_navbar a:visited, #copyright_link:visited, #web_portfolio_link:visited{
     color: yellow;
 }
