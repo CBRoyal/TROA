@@ -1,9 +1,9 @@
-#background_us_image{
+.background_us_image{
     position: relative;
     margin-left: auto;
     margin-right: auto;
 }
-#background_interstate_sign{
+.background_interstate_sign{
     position: absolute;
     left: 100px;
     top: 50px;
