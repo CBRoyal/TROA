@@ -9,8 +9,8 @@
     top: 20px;
 }
 #first_title_line{
-    left: 500px;
-    top: 60px;
+    left: 200px;
+    top: 10px;
     rotate: -35deg;
     font-family: "Permanent Marker", cursive, sans-serif;
     font-size: 15px;
@@ -18,8 +18,8 @@
     animation-duration: 3s;
 }
 #second_title_line{
-    left: 500px;
-    top: 100px;
+    left: 200px;
+    top: 40px;
     rotate: -35deg;
     font-family: "Permanent Marker", cursive, sans-serif;
     font-size: 15px;
