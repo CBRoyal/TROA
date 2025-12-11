@@ -11,14 +11,14 @@
 #first_title_line{
     rotate: -35deg;
     font-family: "Permanent Marker", cursive, sans-serif;
-    font-size: 25px;
+    font-size: 15px;
     animation-name: bringInTitle;
     animation-duration: 3s;
 }
 #second_title_line{
     rotate: -35deg;
     font-family: "Permanent Marker", cursive, sans-serif;
-    font-size: 25px;
+    font-size: 15px;
     animation-name: bringInTitle;
     animation-duration: 3s;
     animation-delay: 1s;
