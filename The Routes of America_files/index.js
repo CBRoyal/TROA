@@ -10,4 +10,4 @@ modalYesButton.addEventListener("click", function(){
     const sendButton= document.querySelector("help-button");
     sendButton.style.display= "none";
     showAlert("conf-success-alert");
-})
+});
