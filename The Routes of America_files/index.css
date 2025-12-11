@@ -32,6 +32,9 @@
 #main_page_us_highway_pictures, #main_page_other_routes_and_highways_pictures{
     float: left;
 }
+#help_button{
+    border: 3px solid black;
+}
 #routes_of_america_navbar a:hover,#copyright_link:hover, #web_portfolio_link:hover,
 #email_link:hover{
     color: orange;
