@@ -38,6 +38,7 @@
 }
 #main_page_interstate_highway_container{
     flex-direction: row-reverse;
+    text-wrap: wrap;
 }
 #main_page_us_highway_container{
     text-wrap: wrap;
