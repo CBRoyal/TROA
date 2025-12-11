@@ -42,6 +42,22 @@
 #help_button{
     border: 3px solid black;
 }
+#address_box{
+    left: 50px;
+    top: 100px;
+}
+#city_box{
+    left: 150px;
+    top: 100px;
+}
+#state_box{
+    left: 250px;
+    top: 100px;
+}
+#zip_code_box{
+    left: 350px;
+    top: 100px;
+}
 #routes_of_america_navbar a:hover,#copyright_link:hover, #web_portfolio_link:hover,
 #email_link:hover{
     color: orange;
