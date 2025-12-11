@@ -10,7 +10,6 @@
 }
 #first_title_line{
     left: 200px;
-    top: 10px;
     rotate: -35deg;
     font-family: "Permanent Marker", cursive, sans-serif;
     font-size: 15px;
@@ -19,7 +18,6 @@
 }
 #second_title_line{
     left: 200px;
-    top: 40px;
     rotate: -35deg;
     font-family: "Permanent Marker", cursive, sans-serif;
     font-size: 15px;
