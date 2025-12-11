@@ -7,5 +7,5 @@ function showAlert(alertId){
 }
 const modalYesButton= document.querySelector("#contact-modal .btn-primary");
 modalYesButton.addEventListener("click", function(){
-    const sendButton= document.querySelector("help-button")
+    const sendButton= document.querySelector("help-button");
 })
