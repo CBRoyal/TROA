@@ -9,7 +9,6 @@
     top: 20px;
 }
 #first_title_line{
-    position: relative;
     left: 500px;
     top: 60px;
     rotate: -35deg;
@@ -19,7 +18,6 @@
     animation-duration: 3s;
 }
 #second_title_line{
-    position: relative;
     left: 500px;
     top: 100px;
     rotate: -35deg;
