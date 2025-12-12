@@ -1,11 +1,9 @@
 #background_us_image{
-    position: relative;
     width: 20vw;
     height: 20vh;
     left: 500px;
 }
 #background_interstate_sign{
-    position: absolute;
     width: 10vw;
     height: 10vh;
     left: 70px;
