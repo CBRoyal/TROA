@@ -17,12 +17,14 @@
     font-size: 15px; 
 }
 .first{
+    position: absolute;
     left: 200px;
     top: 20px;  
     animation-name: bringInTitle;
     animation-duration: 3s;
 }
 .second{
+    position: absolute;
     left: 200px;
     top: 40px;
     animation-name: bringInTitle;
