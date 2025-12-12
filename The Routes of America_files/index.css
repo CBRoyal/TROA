@@ -6,8 +6,9 @@
     margin-right: auto;
 }
 .title_lines{
+    position: absolute;
     left: 200px;
-    top: 20px;
+    top: 60px;
     rotate: -35deg;
     font-family: "Permanent Marker", cursive, sans-serif;
     font-size: 15px; 
