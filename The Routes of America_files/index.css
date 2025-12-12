@@ -15,6 +15,8 @@
     z-index: 3;
 }
 .title_lines{
+    margin-left: auto;
+    margin-right: auto;
     rotate: -35deg;
     font-family: "Permanent Marker", cursive, sans-serif;
     font-size: 15px; 
