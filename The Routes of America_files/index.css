@@ -11,21 +11,20 @@
     left: 70px;
     top: 10px;
 }
-.first_title_line{
-    left: 200px;
-    top: 20px;
+.title_lines{
     rotate: -35deg;
     font-family: "Permanent Marker", cursive, sans-serif;
-    font-size: 15px;
+    font-size: 15px; 
+}
+.first{
+    left: 200px;
+    top: 20px;  
     animation-name: bringInTitle;
     animation-duration: 3s;
 }
-.second_title_line{
+.second{
     left: 200px;
     top: 40px;
-    rotate: -35deg;
-    font-family: "Permanent Marker", cursive, sans-serif;
-    font-size: 15px;
     animation-name: bringInTitle;
     animation-duration: 3s;
     animation-delay: 1s;
