@@ -105,7 +105,10 @@
 
 }
 @media all and (max-width: 500px){
-
+    #main_page_interstate_highway_pictures, #main_page_us_highway_pictures, #main_page_state_route_pictures, 
+    #main_page_other_routes_and_highways_pictures{
+        flex-direction: column;
+    }
 }
 @keyframes bringInTitle{
     0% {transform: translate(-10px, 45px) rotate(-35deg);}
