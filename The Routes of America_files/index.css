@@ -16,14 +16,14 @@
 .first{
     position: absolute;
     left: 200px;
-    top: 20px; 
+    top: 60px; 
     animation-name: bringInTitle;
     animation-duration: 3s;
 }
 .second{
     position: absolute;
     left: 200px;
-    top: 40px;
+    top: 100px;
     animation-name: bringInTitle;
     animation-duration: 3s;
     animation-delay: 1s;
