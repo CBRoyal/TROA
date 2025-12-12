@@ -58,32 +58,26 @@
     margin-right: auto;
 }
 #address_box{
-    position: absolute;
     left: 50px;
     top: 100px;
 }
 #city_box{
-    position: absolute;
     left: 150px;
     top: 100px;
 }
 #state_box{
-    position: absolute;
     left: 250px;
     top: 100px;
 }
 #zip_code_box{
-    position: absolute;
     left: 350px;
     top: 100px;
 }
 #phone_number_box{
-    position: absolute;
     left: 100px;
     top: 250px;
 }
 #email_box{
-    position: absolute;
     left: 200px;
     top: 250px;
 }
