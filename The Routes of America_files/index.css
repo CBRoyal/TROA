@@ -1,25 +1,17 @@
-#routes_of_america_logo{
-    left: 500px;
-    position: absolute;
-}
-#background_us_image{
+.background_us_image{
     z-index: 1;
     width: 20vw;
     height: 20vh;
     left: 500px;
 }
-#background_interstate_sign{
+.background_interstate_sign{
     z-index: 2;
     width: 10vw;
     height: 10vh;
     left: 70px;
     top: 10px;
 }
-.webpage_logo_wording{
-    z-index: 3;
-    left: 200px;
-}
-#first_title_line{
+.first_title_line{
     left: 200px;
     top: 20px;
     rotate: -35deg;
@@ -28,7 +20,7 @@
     animation-name: bringInTitle;
     animation-duration: 3s;
 }
-#second_title_line{
+.second_title_line{
     left: 200px;
     top: 40px;
     rotate: -35deg;
