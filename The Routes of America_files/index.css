@@ -93,12 +93,17 @@
     color: yellow;
 }
 @media all and (max-width: 700px){
-
+    #main_page_interstate_highway_container,#main_page_us_highway_container, #main_page_state_route_container, 
+    #main_page_other_routes_and_highways_container{
+        flex-direction: row;
+        text-wrap: wrap;
+}
 }
 @media all and (max-width: 500px){
     #main_page_interstate_highway_pictures, #main_page_us_highway_pictures, #main_page_state_route_pictures, 
     #main_page_other_routes_and_highways_pictures{
-        flex-direction: column;
+        flex-direction: row;
+        text-wrap: wrap;
     }
 }
 @keyframes bringInTitle{
