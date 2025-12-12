@@ -104,8 +104,8 @@
 @media all and (max-width: 700px){
 
 }
-@media all and (max-width: 600px){
-    
+@media all and (max-width: 500px){
+
 }
 @keyframes bringInTitle{
     0% {transform: translate(-10px, 45px) rotate(-35deg);}
