@@ -1,3 +1,6 @@
+#routes_of_america_logo{
+    position: absolute;
+}
 #background_us_image{
     width: 20vw;
     height: 20vh;
@@ -8,6 +11,10 @@
     height: 10vh;
     left: 70px;
     top: 10px;
+}
+.webpage_logo_wording{
+    z-index: 3;
+    left: 200px;
 }
 #first_title_line{
     left: 200px;
