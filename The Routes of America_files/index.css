@@ -39,8 +39,8 @@
 #main_us_highway_image, #main_state_route_sign, #main_state_route_image, #main_county_route_sign, 
 #main_forest_highway_image{
     flex-direction: column;
-    width: 20vw;
-    height: 20vh;
+    width: 15vw;
+    height: 15vh;
 }
 .the_routes_of_america_nav_buttons{
     margin-left: auto;
