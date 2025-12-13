@@ -1,3 +1,6 @@
+body{
+    -webkit-text-size-adjust: 100%;
+}
 .routes_of_america_logo{
     position: relative;
     width: 20vw;
