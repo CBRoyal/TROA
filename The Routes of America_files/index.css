@@ -104,13 +104,13 @@
 .modal-body{
     color: black;
 }
-nav li a{
+nav-li-a{
     color: white;
 }
-nav li a:hover{
+nav-li-a:hover{
     color: orange;
 }
-nav li a:visited{
+nav-li-a:visited{
     color: yellow;
 }
 @media (max-width: 700px){
