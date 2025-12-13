@@ -1,6 +1,9 @@
 body{
     -webkit-text-size-adjust: 100%;
 }
+.form-check-input {
+    color-scheme: exact;
+}
 .routes_of_america_logo{
     position: relative;
     width: 20vw;
