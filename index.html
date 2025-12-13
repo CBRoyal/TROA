@@ -53,8 +53,9 @@
                    you can discover in America.</p>
             </div>
             <h2>Interstate Highways</h2>
-            <section class="container d-flex" id="main_page_interstate_highway_container">
-                <span class="container d-flex" id="main_page_interstate_highway_pictures">
+            <div class="container-fluid" id="main_page_interstate_highway_container">
+                <div class="row">
+                <span class="container d-flex col-md" id="main_page_interstate_highway_pictures">
                     <img class="img-fluid" id="main_interstate_highway_sign" src="The Routes of America_files/Interstate_Highway_Sign.png" alt="I-90 Highway Sign" width="150" height="150">
                     <img class="img-fluid" id="main_interstate_highway_image" src="The Routes of America_files/Interstate_Highway_Image.webp" alt="Interstate Highway Scenery" width="150"
                      height="150">
@@ -66,8 +67,9 @@
                    highways.</p>
                 <form action="https://cbroyal.github.io/TROAIH/" method="GET">
                     <input class="the_routes_of_america_nav_buttons bg-warning" type="submit" value="Interstate Highways">
-                </form> 
-            </section>
+                </form>
+                </div> 
+            </div>
             <h2>U.S. Highways</h2>
             <section class="container d-flex" id="main_page_us_highway_container">
                 <span class="container d-flex" id="main_page_us_highway_pictures">
@@ -171,7 +173,7 @@
                                     </div>
                                     <div class="form-group" id="report_box">
                                         <label for="name" class="col-form-label">What's the Roadblock:</label>
-                                        <textarea class="form-control" name="report" rows="20" cols="50"></textarea>
+                                        <textarea class="form-control" id="name" name="report" rows="20" cols="50"></textarea>
                                     </div>   
                                 </form>
                             </div>
