@@ -8,7 +8,7 @@
 .title_lines{
     position: absolute;
     left: 200px;
-    top: 10px;
+    top: -10px;
 }
 .first{
     rotate: -35deg;
