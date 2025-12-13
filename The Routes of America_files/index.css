@@ -104,7 +104,7 @@
 #email_link:visited{
     color: yellow;
 }
-.modal{
+.modal-body{
     color: black;
 }
 @media (max-width: 700px){
