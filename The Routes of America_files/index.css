@@ -104,9 +104,6 @@
 #email_link:visited{
     color: yellow;
 }
-.modal-body{
-    color: black;
-}
 @media (max-width: 700px){
     #main_page_interstate_highway_container, #main_page_state_route_container,
     #main_page_us_highway_container, #main_page_other_routes_and_highways_container{
