@@ -84,6 +84,13 @@
 .routes_of_america_footer{
     position: fixed;
 }
+#routes_of_america_navbar ul{
+    list-style-type: none;
+}
+#routes_of_america_navbar li a,#copyright_link, #web_portfolio_link,
+#email_link{
+    color: white;
+}
 #routes_of_america_navbar > a:hover,#copyright_link:hover, #web_portfolio_link:hover,
 #email_link:hover{
     color: orange;
