@@ -101,7 +101,7 @@
 #email_link:visited{
     color: yellow;
 }
-@media all and (max-width: 700px){
+@media (max-width: 700px){
     #main_page_interstate_highway_pictures{
         flex-direction: column;
     }
@@ -112,7 +112,7 @@
     text-wrap: wrap;
     }
 }
-@media all and (max-width: 500px){
+@media (max-width: 500px){
     #main_interstate_highway_sign, #main_interstate_highway_image, #main_us_highway_sign,
     #main_us_highway_image, #main_state_route_sign, #main_state_route_image, #main_county_route_sign, 
     #main_forest_highway_image{
