@@ -11,6 +11,9 @@
     top: 50px;
 }
 .first{
+    position: absolute;
+    left: 60px;
+    top: 50px;
     rotate: -35deg;
     font-family: "Permanent Marker", cursive, sans-serif;
     font-size: 15px; 
@@ -18,6 +21,9 @@
     animation-duration: 3s;
 }
 .second{
+    position: absolute;
+    left: 60px;
+    top: 70px;
     rotate: -35deg;
     font-family: "Permanent Marker", cursive, sans-serif;
     font-size: 15px; 
