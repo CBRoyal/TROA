@@ -84,6 +84,7 @@
 }
 .routes_of_america_footer{
     position: fixed;
+    margin-top: 30px;
 }
 #routes_of_america_navbar ul{
     list-style-type: none;
