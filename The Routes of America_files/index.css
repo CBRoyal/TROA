@@ -82,6 +82,7 @@
 }
 #routes_of_america_navbar ul{
     list-style-type: none;
+    padding: 10px 0;
 }
 #routes_of_america_navbar li a,#copyright_link, #web_portfolio_link,
 #email_link{
