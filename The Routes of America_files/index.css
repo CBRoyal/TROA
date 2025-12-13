@@ -104,15 +104,15 @@
 .modal-body{
     color: black;
 }
-#nav li a, #copyright_link, #web_portfolio_link,
+nav li a, #copyright_link, #web_portfolio_link,
 #email_link{
     color: white;
 }
-#nav li a:hover, #copyright_link:hover, #web_portfolio_link:hover,
+nav li a:hover, #copyright_link:hover, #web_portfolio_link:hover,
 #email_link:hover{
     color: orange;
 }
-#nav li a:visited, #copyright_link:visited, #web_portfolio_link:visited, 
+nav li a:visited, #copyright_link:visited, #web_portfolio_link:visited, 
 #email_link:visited{
     color: yellow;
 }
