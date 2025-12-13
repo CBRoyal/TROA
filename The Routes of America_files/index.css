@@ -9,6 +9,7 @@
     position: absolute;
     left: 60px;
     top: 50px;
+    z-index: 2;
     rotate: -35deg;
     font-family: "Permanent Marker", cursive, sans-serif;
     font-size: 15px; 
@@ -19,6 +20,7 @@
     position: absolute;
     left: 60px;
     top: 70px;
+    z-index: 1;
     rotate: -35deg;
     font-family: "Permanent Marker", cursive, sans-serif;
     font-size: 15px; 
