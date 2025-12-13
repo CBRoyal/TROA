@@ -5,12 +5,7 @@
     margin-left: auto;
     margin-right: auto;
 }
-.title_lines{
-    position: absolute;
-    left: 60px;
-    top: 50px;
-}
-.first{
+.first_title_line{
     position: absolute;
     left: 60px;
     top: 50px;
@@ -20,7 +15,7 @@
     animation-name: bringInTitle;
     animation-duration: 3s;
 }
-.second{
+.second_title_line{
     position: absolute;
     left: 60px;
     top: 70px;
