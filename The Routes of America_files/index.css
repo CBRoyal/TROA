@@ -72,7 +72,8 @@ nav ul{
 .modal-body{
     color: black;
 }
-#email-link{
+#email-link,
+#copyright-link{
     color: white;
 }
 #email-link:hover{
