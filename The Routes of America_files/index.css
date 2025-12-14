@@ -73,14 +73,18 @@ nav ul{
     color: black;
 }
 #email-link,
-#copyright-link{
+#copyright-link,
+#webportfolio-link{
     color: white;
 }
 #email-link:hover,
-#copyright-link:hover{
+#copyright-link:hover,
+#webportfolio-link:hover{
     color: orange;
 }
-#email-link:visited{
+#email-link:visited,
+#copyright-link:visited,
+#webportfolio-link:visited{
     color: yellow;
 }
 @media (max-width: 700px){
