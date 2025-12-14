@@ -60,30 +60,6 @@
     margin-left: auto;
     margin-right: auto;
 }
-#address_box{
-    left: 50px;
-    top: 100px;
-}
-#city_box{
-    left: 150px;
-    top: 100px;
-}
-#state_box{
-    left: 250px;
-    top: 100px;
-}
-#zip_code_box{
-    left: 350px;
-    top: 100px;
-}
-#phone_number_box{
-    left: 100px;
-    top: 250px;
-}
-#email_box{
-    left: 200px;
-    top: 250px;
-}
 nav ul{
     list-style-type: none;
     padding: 10px 0;
