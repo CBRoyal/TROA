@@ -71,7 +71,7 @@ nav ul{
 #email-link{
     color: white;
 }
-a:hover{
+#email-link:hover{
     color: orange;
 }
 a:visited{
