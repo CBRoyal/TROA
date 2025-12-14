@@ -46,10 +46,14 @@
     text-wrap: wrap;
 }
 #main_interstate_highway_sign, #main_interstate_highway_image, #main_us_highway_sign,
-#main_us_highway_image, #main_state_route_sign, #main_state_route_image, #main_county_route_sign, 
+#main_us_highway_image, #main_county_route_sign, 
 #main_forest_highway_image{
     width: 25vw;
     height: 25vh;
+}
+#main_state_route_sign, #main_state_route_image{
+    width: 35vw;
+    height: 35vh;
 }
 .the_routes_of_america_nav_buttons{
     margin-left: auto;
