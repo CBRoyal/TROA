@@ -74,7 +74,7 @@ nav ul{
 #email-link:hover{
     color: orange;
 }
-a:visited{
+#email-link:visited{
     color: yellow;
 }
 @media (max-width: 700px){
