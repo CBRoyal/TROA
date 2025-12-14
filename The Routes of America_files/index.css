@@ -37,7 +37,6 @@
     text-wrap: wrap;
 }
 #main_page_us_highway_container, #main_page_other_routes_and_highways_container{
-    flex-direction: row-reverse;
     text-wrap: wrap;
 }
 #routes_of_america_main_content, #main_page_interstate_highway_pictures,
