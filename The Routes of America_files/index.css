@@ -68,7 +68,7 @@ nav ul{
 .modal-body{
     color: black;
 }
-.link-secondary{
+a{
     color: white;
 }
 a:hover{
