@@ -68,7 +68,7 @@ nav ul{
 .modal-body{
     color: black;
 }
-a{
+#email-link{
     color: white;
 }
 a:hover{
