@@ -76,7 +76,8 @@ nav ul{
 #copyright-link{
     color: white;
 }
-#email-link:hover{
+#email-link:hover,
+#copyright-link:hover{
     color: orange;
 }
 #email-link:visited{
