@@ -92,15 +92,6 @@ nav ul{
     list-style-type: none;
     padding: 10px 0;
 }
-.col-md{
-    color: white;
-}
-.col-md:hover{
-    color: orange;
-}
-.col-md:visited{
-    color: yellow;
-}
 .modal-body{
     color: black;
 }
