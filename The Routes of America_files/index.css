@@ -88,12 +88,12 @@
     position: fixed;
     margin-top: 30px;
 }
-#routes_of_america_navbar ul{
+nav-ul{
     list-style-type: none;
     padding: 10px 0;
 }
 .col-md{
-    color: rgb(50, 37, 37);
+    color: white;
 }
 .col-md:hover{
     color: orange;
@@ -104,13 +104,13 @@
 .modal-body{
     color: black;
 }
-nav-li-a{
+nav-li{
     color: white;
 }
-nav-li-a:hover{
+nav-li:hover{
     color: orange;
 }
-nav-li-a:visited{
+nav-li:visited{
     color: yellow;
 }
 @media (max-width: 700px){
