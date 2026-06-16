@@ -11,7 +11,7 @@
 }
 .first_title_line{
     position: absolute;
-    left: 500px;
+    left: 90px;
     top: 90px;
     z-index: 2;
     rotate: -35deg;
@@ -23,7 +23,7 @@
 }
 .second_title_line{
     position: absolute;
-    left: 500px;
+    left: 90px;
     top: 110px;
     z-index: 1;
     rotate: -35deg;
