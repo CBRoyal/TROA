@@ -200,6 +200,9 @@
     .first_title_line, .second_title_line{
         left: 220px;
     }
+    .openbtn{
+        bottom: 300px;
+    }
     #main_highway_title_image{
         margin-left: 150px;
     }
