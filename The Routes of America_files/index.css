@@ -182,15 +182,9 @@
     #main_highway_title_image{
         margin-left: 180px;
     }
-    #main_page_interstate_highway_container, #main_page_us_highway_container{
-        gap: 100px;
+    .the_routes_of_america_nav_buttons{
+        margin-left: 190px;
     }
-    #main_page_state_route_container{
-        gap: 85px;
-    }
-    #main_page_other_routes_and_highways_container{
-        gap: 115px;
-    } 
     #help-button{
         margin-left: 300px;
     }
