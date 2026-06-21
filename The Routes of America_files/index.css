@@ -126,6 +126,10 @@
 .openbtn:hover{
     color: var(--routes-of-america-footer-link-hover-color);
 }
+.routes_of_america_contact_section{
+    margin: 0 5px;
+    font-size: 20px;
+}
 #help-button{
     margin-left: 570px;
 }
