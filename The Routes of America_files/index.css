@@ -101,6 +101,17 @@
     font-size: 30px;
     margin-left: 50px;
 }
+.openbtn{
+    font-size: 70px;
+    cursor: pointer;
+    position: fixed;
+    display: none;
+    background-color: transparent;
+    border: none;
+}
+.openbtn:hover{
+    color: var(--routes-of-america-footer-link-hover-color);
+}
 #help-button{
     margin-left: 560px;
 }
