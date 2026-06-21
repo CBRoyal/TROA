@@ -9,3 +9,12 @@ modalYesButton.addEventListener("click", function(){
     sendButton.style.display= "none";
     showAlert("conf-success-alert");
 });
+function openNav(){
+    document.getElementsByClassName("routes_of_america_tablet_and_phone_navbar").style.width = 
+    "250px";
+    document.getElementById("routes_of_america_title_page").style.marginLeft = "100px";
+}
+function closeNav(){
+    document.getElementsByClassName("routes_of_america_tablet_and_phone_navbar").style.width = "0";
+    document.getElementById("routes_of_america_title_page").style.marginLeft = "0";
+}
