@@ -163,6 +163,12 @@
     .routes_of_america_logo{
         margin-left: 200px;
     }
+    .routes_of_america_tablet_and_phone_navbar{
+        display: block;
+    }
+    .openbtn{
+        display: block;
+    }
     .first_title_line, .second_title_line{
         left: 300px;
     }
