@@ -37,8 +37,7 @@
 #main_highway_title_image{
     width: 50vw;
     height: 60vh;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 480px;
 }
 #main_page_interstate_highway_container, #main_page_us_highway_container, 
 #main_page_other_routes_and_highways_container{
