@@ -157,6 +157,15 @@
     #main_page_us_highway_container, #main_page_other_routes_and_highways_container{
         flex-direction: column;
     }
+    .routes_of_america_logo{
+        margin-left: 190px;
+    }
+    .first_title_line, .second_title_line{
+        left: 290px;
+    }
+    #main_highway_title_image{
+        margin-left: 180px;
+    }
 }
 @media screen and (max-width: 500px){
     #main_page_interstate_highway_pictures, #main_page_us_highway_pictures, #main_page_state_route_pictures, 
