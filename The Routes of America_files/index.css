@@ -8,6 +8,7 @@
 }
 #routes_of_america_title_page{
     width: 100%;
+    transition: margin-left 0.5s;
 }
 .routes_of_america_logo{
     position: relative;
