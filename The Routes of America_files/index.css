@@ -90,7 +90,7 @@
     padding: 10px 0;
 }
 .routes_of_america_tablet_and_phone_navbar{
-    display: none;
+    visibility: hidden;
 }
 .routes_of_america_computer_navbar .row .col-md a, .routes_of_america_tablet_and_phone_navbar a{
     color: var(--routes-of-america-main-webpage-text-color);
@@ -171,7 +171,7 @@
         display: none;
     }
     .routes_of_america_tablet_and_phone_navbar{
-        display: block;
+        visibility: visible;
     }
     .openbtn{
         display: block;
