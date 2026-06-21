@@ -203,6 +203,9 @@
     #main_highway_title_image{
         margin-left: 150px;
     }
+    #help-button{
+        margin-left: 130px;
+    }
 }
 @keyframes bringInTitle{
     0% {transform: translate(1010px, 30px) rotate(0deg);}
