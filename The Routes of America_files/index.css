@@ -163,6 +163,9 @@
     .first_title_line, .second_title_line{
         left: 290px;
     }
+    #main_highway_title_image{
+        margin-left: 180px;
+    }
 }
 @keyframes bringInTitle{
     0% {transform: translate(1010px, 30px) rotate(0deg);}
