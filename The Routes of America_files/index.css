@@ -69,14 +69,14 @@
     width: 20vw;
     height: 25vh;
 }
-.routes_of_america_navbar .row{
+.routes_of_america_computer_navbar .row{
     list-style-type: none;
     padding: 10px 0;
 }
-.routes_of_america_navbar .row .col-md a{
+.routes_of_america_computer_navbar .row .col-md a{
     color: var(--routes-of-america-main-webpage-text-color);
 }
-.routes_of_america_navbar .row .col-md a:hover{
+.routes_of_america_computer_navbar .row .col-md a:hover{
     color: var(--routes-of-america-navbar-link-hover-color);
 }
 #help-button{
