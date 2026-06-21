@@ -126,7 +126,7 @@
 .openbtn:hover{
     color: var(--routes-of-america-footer-link-hover-color);
 }
-.routes_of_america_contact_section{
+.routes_of_america_contact_section, .routes_of_america_footer{
     margin: 0 5px;
     font-size: 20px;
 }
