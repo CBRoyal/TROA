@@ -72,6 +72,9 @@
 .routes_of_america_navbar ul li a:hover{
     color: var(--routes-of-america-navbar-link-hover-color);
 }
+#help-button{
+    margin-left: 560px;
+}
 .modal-header,
 .modal-body{
     color: var(--routes-of-america-modal-color);
