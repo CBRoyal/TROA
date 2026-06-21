@@ -157,6 +157,12 @@
     #main_page_other_routes_and_highways_pictures{
         flex-direction: column;
     }
+    .routes_of_america_logo{
+        margin-left: 190px;
+    }
+    .first_title_line, .second_title_line{
+        left: 290px;
+    }
 }
 @keyframes bringInTitle{
     0% {transform: translate(1010px, 30px) rotate(0deg);}
