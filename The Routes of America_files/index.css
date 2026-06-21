@@ -6,6 +6,9 @@
     --routes-of-america-footer-link-visited-color: #ffff00;
     --routes-of-america-footer-link-hover-color: #ffa500;
 }
+#routes_of_america_title_page{
+    width: 100%;
+}
 .routes_of_america_logo{
     position: relative;
     margin-left: 470px;
