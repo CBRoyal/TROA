@@ -195,13 +195,13 @@
         flex-direction: column;
     }
     .routes_of_america_logo{
-        margin-left: 190px;
+        margin-left: 120px;
     }
     .first_title_line, .second_title_line{
-        left: 290px;
+        left: 220px;
     }
     #main_highway_title_image{
-        margin-left: 180px;
+        margin-left: 150px;
     }
 }
 @keyframes bringInTitle{
