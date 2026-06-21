@@ -169,6 +169,9 @@
     #main_highway_title_image{
         margin-left: 180px;
     }
+    #help-button{
+        margin-left: 200px;
+    }
 }
 @media screen and (max-width: 500px){
     #main_page_interstate_highway_pictures, #main_page_us_highway_pictures, #main_page_state_route_pictures, 
