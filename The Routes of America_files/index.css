@@ -3,7 +3,7 @@
     --routes-of-america-main-webpage-text-color: #ffffff;
     --routes-of-america-navigation-buttons-text-hover-color: #8b0000;
     --routes-of-america-modal-color: #000000;
-    --routes-of-america-footer-link-visited-color: #ffff00;
+    --routes-of-america-footer-link-active-color: #ffff00;
     --routes-of-america-footer-link-hover-color: #ffa500;
 }
 #routes_of_america_title_page{
@@ -151,10 +151,10 @@
 #webportfolio-link:hover{
     color: var(--routes-of-america-footer-link-hover-color);
 }
-#email-link:visited,
-#copyright-link:visited,
-#webportfolio-link:visited{
-    color: var(--routes-of-america-footer-link-visited-color);
+#email-link:active,
+#copyright-link:active,
+#webportfolio-link:active{
+    color: var(--routes-of-america-footer-link-active-color);
 }
 @media screen and (max-width: 800px){
     #main_page_interstate_highway_container, #main_page_state_route_container,
