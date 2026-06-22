@@ -167,10 +167,10 @@
     .routes_of_america_logo{
         margin-left: 210px;
     }
-    .routes_of_america_computer_navbar{
+    #routes_of_america_computer_navbar{
         display: none;
     }
-    .routes_of_america_tablet_and_phone_navbar{
+    #routes_of_america_tablet_and_phone_navbar{
         display: block;
     }
     #openbtn{
