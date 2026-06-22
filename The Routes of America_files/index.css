@@ -89,6 +89,11 @@
 }
 #routes_of_america_tablet_and_phone_navbar_menu{
     display: none;
+    list-style-type: none;
+}
+#routes_of_america_tablet_and_phone_navbar_menu:active{
+    display: flex;
+    flex-direction: column;
 }
 #routes_of_america_computer_navbar .row .col-md a, #routes_of_america_tablet_and_phone_navbar #routes_of_america_tablet_and_phone_navbar_menu li a{
     color: var(--routes-of-america-main-webpage-text-color);
