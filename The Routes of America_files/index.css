@@ -80,36 +80,21 @@
 .the_routes_of_america_nav_buttons:active, #help-button:active{
     transform: scale(0.5, 0.5);
 }
-.routes_of_america_computer_navbar .row{
+#routes_of_america_computer_navbar .row{
     list-style-type: none;
     padding: 10px 0;
 }
-.routes_of_america_tablet_and_phone_navbar{
-    visibility: hidden;
+#routes_of_america_tablet_and_phone_navbar{
+    display: none;
 }
-.routes_of_america_computer_navbar .row .col-md a, .routes_of_america_tablet_and_phone_navbar a{
+#routes_of_america_computer_navbar .row .col-md a, .routes_of_america_tablet_and_phone_navbar a{
     color: var(--routes-of-america-main-webpage-text-color);
 }
-.routes_of_america_computer_navbar .row .col-md a:hover, 
-.routes_of_america_tablet_and_phone_navbar a:hover{
+#routes_of_america_computer_navbar .row .col-md a:hover, 
+#routes_of_america_tablet_and_phone_navbar a:hover{
     color: var(--routes-of-america-navbar-link-hover-color);
 }
-.sidebar{
-    width: 0;
-    height: 100%;
-    position: fixed;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    overflow-x: hidden;
-    transition: 0.5s;
-}
-.sidebar a{
-    text-decoration: none;
-    display: block;
-    transition: 0.3s;
-}
-.sidebar .closebtn{
+#routes_of_america_tablet_and_phone_navbar .closebtn{
     position: absolute;
     right: 25px;
     font-size: 30px;
