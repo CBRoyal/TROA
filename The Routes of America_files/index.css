@@ -163,7 +163,7 @@
         display: none;
     }
     .routes_of_america_tablet_and_phone_navbar{
-        visibility: visible;
+        display: block;
     }
     .openbtn{
         display: block;
