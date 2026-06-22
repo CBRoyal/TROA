@@ -10,12 +10,12 @@ modalYesButton.addEventListener("click", function(){
     showAlert("conf-success-alert");
 });
 function openNav(){
-    document.getElementById("routes_of_america_tablet_and_phone_navbar").style.width = 
+    document.getElementById("routes_of_america_tablet_and_phone_navbar_menu").style.width = 
     "250px";
     document.getElementById("routes_of_america_title_page").style.marginLeft = "100px";
 }
 function closeNav(){
-    document.getElementById("routes_of_america_tablet_and_phone_navbar").style.width = "0";
+    document.getElementById("routes_of_america_tablet_and_phone_navbar_menu").style.width = "0";
     document.getElementById("routes_of_america_title_page").style.marginLeft = "0";
 }
 const button = document.getElementById("openbtn");
