@@ -166,14 +166,10 @@
         margin-left: 0px;
     }
     #main_interstate_highway_sign, #main_interstate_highway_image, #main_us_highway_sign,
-    #main_us_highway_image, #main_county_route_sign, 
+    #main_us_highway_image, #main_state_route_sign, #main_state_route_image, #main_county_route_sign, 
     #main_forest_highway_image{
         width: 100px;
         height: 100px;
-    }
-    #main_state_route_sign, #main_state_route_image{
-        width: 90px;
-        height: 90px;
     }
     .routes_of_america_logo{
         margin-left: 210px;
@@ -206,14 +202,10 @@
         flex-direction: column;
     }
     #main_interstate_highway_sign, #main_interstate_highway_image, #main_us_highway_sign,
-    #main_us_highway_image, #main_county_route_sign, 
+    #main_us_highway_image, #main_state_route_sign, #main_state_route_image, #main_county_route_sign, 
     #main_forest_highway_image{
         width: 80px;
         height: 80px;
-    }
-    #main_state_route_sign, #main_state_route_image{
-        width: 65px;
-        height: 65px;
     }
     .routes_of_america_logo{
         margin-left: 90px;
