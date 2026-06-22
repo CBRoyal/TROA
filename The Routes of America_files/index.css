@@ -108,7 +108,7 @@
     font-size: 30px;
     margin-left: 50px;
 }
-.openbtn{
+#openbtn{
     font-size: 70px;
     cursor: pointer;
     position: fixed;
@@ -118,7 +118,7 @@
     background-color: transparent;
     border: none;
 }
-.openbtn:hover{
+#openbtn:hover{
     color: var(--routes-of-america-footer-link-hover-color);
 }
 .routes_of_america_contact_section, .routes_of_america_footer{
@@ -173,7 +173,7 @@
     .routes_of_america_tablet_and_phone_navbar{
         display: block;
     }
-    .openbtn{
+    #openbtn{
         display: block;
     }
     .first_title_line, .second_title_line{
@@ -206,7 +206,7 @@
     .first_title_line, .second_title_line{
         left: 190px;
     }
-    .openbtn{
+    #openbtn{
         bottom: 300px;
     }
     #main_highway_title_image{
