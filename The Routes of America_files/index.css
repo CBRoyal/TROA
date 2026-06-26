@@ -83,12 +83,14 @@
     display: none;
 }
 #routes_of_america_tablet_and_phone_navbar_menu{
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.4s ease;
+    display: none;
+    list-style: none;
+    margin: 0;
+    padding: 20px 0;
 }
 #routes_of_america_tablet_and_phone_navbar_menu:active{
-    max-height: 500px;
+    display: flex;
+    flex-direction: column;
 }
 #routes_of_america_computer_navbar .row .col-md a, #routes_of_america_tablet_and_phone_navbar #routes_of_america_tablet_and_phone_navbar_menu li a{
     color: var(--routes-of-america-main-webpage-text-color);
