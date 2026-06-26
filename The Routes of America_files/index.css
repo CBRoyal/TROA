@@ -96,12 +96,6 @@
 #routes_of_america_tablet_and_phone_navbar a:hover{
     color: var(--routes-of-america-navbar-link-hover-color);
 }
-#routes_of_america_tablet_and_phone_navbar .closebtn{
-    position: absolute;
-    right: 25px;
-    font-size: 30px;
-    margin-left: 50px;
-}
 #openbtn{
     font-size: 70px;
     cursor: pointer;
