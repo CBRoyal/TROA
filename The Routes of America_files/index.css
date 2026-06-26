@@ -53,9 +53,10 @@
 }
 #main_page_state_route_container_text{
     margin-left: 440px;
+    padding-bottom: 200px;
 } 
 #main_page_state_route_container_button{
-    margin-left: 675px;
+    margin-left: 875px;
 }
 #main_page_other_routes_and_highways_container{
     font-size: 20px;
