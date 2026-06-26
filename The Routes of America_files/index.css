@@ -40,8 +40,6 @@
     animation-delay: 1s;
 }
 #main_highway_title_image{
-    width: 50vw;
-    height: 60vh;
     margin-left: 330px;
 }
 #main_page_interstate_highway_container, #main_page_us_highway_container{
@@ -207,7 +205,7 @@
         bottom: 300px;
     }
     #main_highway_title_image{
-        margin-left: 150px;
+        margin-left: 100px;
     }
     .the_routes_of_america_nav_buttons{
         margin-left: 140px;
