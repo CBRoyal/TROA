@@ -136,6 +136,12 @@
     color: var(--routes-of-america-footer-link-active-color);
 }
 @media screen and (max-width: 800px){
+    #interstate_highways_section_title{
+        margin-left: 180px;
+    }
+    #main_page_interstate_highway_pictures{
+        margin-left: 170px;
+    }
     #main_page_interstate_highway_container, #main_page_state_route_container,
     #main_page_us_highway_container, #main_page_other_routes_and_highways_container{
         flex-direction: column;
