@@ -143,7 +143,10 @@
         margin-left: 230px;
     }
     #us_highways_section_title{
-        margin-left: 190px;
+        margin-left: 250px;
+    }
+    #main_page_us_highway_pictures{
+        margin-right: 235px;
     }
     #main_page_interstate_highway_container, #main_page_state_route_container,
     #main_page_us_highway_container, #main_page_other_routes_and_highways_container{
