@@ -148,6 +148,12 @@
     #main_page_us_highway_pictures{
         margin-right: 235px;
     }
+    #state_routes_section_title{
+        margin-left: 255px;
+    }
+    #main_page_state_routes_pictures{
+        margin-left: 245px;
+    }
     #main_page_interstate_highway_container, #main_page_state_route_container,
     #main_page_us_highway_container, #main_page_other_routes_and_highways_container{
         flex-direction: column;
