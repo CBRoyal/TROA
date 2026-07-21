@@ -238,7 +238,10 @@
         width: 300px;
         height: 300px;
     }
-    .the_routes_of_america_nav_buttons{
+    #interstate_highways_page_button{
+        margin-left: 130px;
+    }
+    #other_routes_and_highways_page_button{
         margin-left: 120px;
     }
     #help-button{
