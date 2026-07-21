@@ -146,10 +146,10 @@
         margin-left: 280px;
     }
     #main_page_us_highway_pictures{
-        margin-right: 265px;
+        margin-right: 275px;
     }
     #state_routes_section_title{
-        margin-left: 270px;
+        margin-left: 275px;
     }
     #main_page_state_route_pictures{
         margin-left: 245px;
@@ -165,9 +165,6 @@
         flex-direction: column;
     }
     #main_page_state_route_container_text{
-        margin-left: 0px;
-    } 
-    #main_page_state_route_container_button{
         margin-left: 0px;
     }
     #main_interstate_highway_sign, #main_interstate_highway_image, #main_us_highway_sign,
