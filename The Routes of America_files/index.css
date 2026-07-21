@@ -237,8 +237,8 @@
     }
 }
 @keyframes bringInTitle{
-    0% {transform: translate(1010px, 30px) rotate(0deg);}
-    25% {transform: translate(440px, 30px) rotate(0deg);}
+    0% {transform: translate(1010px, 50px) rotate(0deg);}
+    25% {transform: translate(440px, 50px) rotate(0deg);}
     50% {transform: translate(440px, 30px) rotate(-35deg);}
     75% {transform: translate(400px, 80px) rotate(-35deg);}
     100% {transform: translate(400px, 80px) rotate(-35deg);}
