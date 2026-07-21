@@ -195,16 +195,16 @@
         margin-left: 145px;
     }
     #interstate_highways_page_button{
-        margin-left: 240px;
+        margin-left: 255px;
     }
     #us_highways_page_button{
-        margin-left: 260px;
-    }
-    #state_routes_page_button{
         margin-left: 270px;
     }
+    #state_routes_page_button{
+        margin-left: 275px;
+    }
     #other_routes_and_highways_page_button{
-        margin-left: 210px;
+        margin-left: 220px;
     }
     .routes_of_america_contact_section_title{
         margin-left: 255px;
@@ -239,13 +239,13 @@
         height: 300px;
     }
     #interstate_highways_page_button{
-        margin-left: 140px;
+        margin-left: 155px;
     }
     #us_highways_page_button{
-        margin-left: 160px;
+        margin-left: 170px;
     }
     #state_routes_page_button{
-        margin-left: 170px;
+        margin-left: 175px;
     }
     #other_routes_and_highways_page_button{
         margin-left: 120px;
