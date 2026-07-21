@@ -241,5 +241,5 @@
     25% {transform: translate(400px, 30px) rotate(0deg);}
     50% {transform: translate(400px, 80px) rotate(-35deg);}
     75% {transform: translate(240px, 80px) rotate(-35deg);}
-    100% {transform: translate(80px, 90px) rotate(-35deg);}
+    100% {transform: translate(80px, 70px) rotate(-35deg);}
 }
