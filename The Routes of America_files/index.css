@@ -176,7 +176,7 @@
     #routes_of_america_navbar .row .col-md a{
         padding: 20px;
     }
-    #routes_of_america_navbar:hover{
+    #routes_of_america_navbar .row .col-md a:hover{
         background-color: var(--routes-of-america-navbar-link-hover-background-color);
     }
     #routes_of_america_navbar.open{
