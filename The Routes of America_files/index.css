@@ -163,7 +163,7 @@
     #routes_of_america_navbar{
         display: flex;
         flex-direction: column;
-        gap: 0px;
+        gap: 50px;
         position: fixed;
         top: 0;
         left: 0;
