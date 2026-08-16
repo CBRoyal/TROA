@@ -177,6 +177,7 @@
         padding: 20px;
     }
     #routes_of_america_navbar .row .col-md a:hover{
+        color: var(--routes-of-america-main-webpage-text-color);
         background-color: var(--routes-of-america-navbar-link-hover-background-color);
     }
     #routes_of_america_navbar.open{
