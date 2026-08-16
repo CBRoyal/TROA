@@ -235,6 +235,30 @@
     #routes_of_america_main_content{
         margin-left: 40px;
     }
+    #interstate_highways_section_title{
+        margin-left: 190px;
+    }
+    #main_page_interstate_highway_pictures{
+        margin-left: 200px;
+    }
+    #us_highways_section_title{
+        margin-left: 220px;
+    }
+    #main_page_us_highway_pictures{
+        margin-right: 230px;
+    }
+    #state_routes_section_title{
+        margin-left: 200px;
+    }
+    #main_page_state_route_pictures{
+        margin-left: 230px;
+    }
+    #other_routes_and_highways_section_title{
+        margin-left: 165px;
+    }
+    #main_page_other_routes_and_highways_pictures{
+        margin-right: 170px;
+    }
     #interstate_highways_page_button{
         margin-left: 155px;
     }
