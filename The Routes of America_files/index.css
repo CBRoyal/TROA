@@ -79,7 +79,7 @@
 }
 #routes_of_america_navbar .row{
     list-style-type: none;
-    padding: 10px 0;
+    gap: 30px;
 }
 #routes_of_america_navbar .row .col-md a{
     color: var(--routes-of-america-main-webpage-text-color);
