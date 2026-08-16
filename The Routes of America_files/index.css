@@ -163,7 +163,7 @@
     #routes_of_america_navbar{
         display: flex;
         flex-direction: column;
-        gap: 50px;
+        gap: 0px;
         position: fixed;
         top: 0;
         left: 0;
@@ -172,6 +172,9 @@
         transform: translateX(-100%);
         transition: transform 0.3s ease;
         z-index: 1;
+    }
+    #routes_of_america_navbar .row .col-md a{
+        padding: 20px;
     }
     #routes_of_america_navbar:hover{
         background-color: var(--routes-of-america-navbar-link-hover-background-color);
