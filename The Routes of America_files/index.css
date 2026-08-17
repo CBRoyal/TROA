@@ -174,7 +174,8 @@
         z-index: 1;
     }
     #routes_of_america_navbar .row .col-md a{
-        padding: 50px 0 0 0;
+        padding: 20px;
+        position: fixed;
     }
     #routes_of_america_navbar .row .col-md a:hover{
         color: var(--routes-of-america-main-webpage-text-color);
