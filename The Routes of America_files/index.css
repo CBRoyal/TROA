@@ -185,6 +185,9 @@
     #routes_of_america_navbar.open{
         transform: translateX(0);
     }
+    #routes_of_america_navbar.open .row .col-md a{
+        position: fixed;
+    }
     #openbtn{
         display: block;
         font-size: 70px;
