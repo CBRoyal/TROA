@@ -149,9 +149,6 @@
     #main_page_us_highway_container, #main_page_other_routes_and_highways_container{
         flex-direction: column;
     }
-    #main_page_state_route_container_text{
-        margin-left: 0px;
-    }
     #main_interstate_highway_sign, #main_interstate_highway_image, #main_us_highway_sign,
     #main_us_highway_image, #main_state_route_sign, #main_state_route_image, #main_county_route_sign, 
     #main_forest_highway_image{
@@ -225,6 +222,9 @@
     }
     .routes_of_america_contact_section_title{
         margin-left: 275px;
+    }
+    .routes_of_america_help_container_content{
+        width: 95%;
     }
     #help-button{
         margin-left: 300px;
