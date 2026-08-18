@@ -267,40 +267,40 @@
         margin-left: 140px;
     }
     #main_page_us_highway_pictures{
-        margin-right: 130px;
+        margin-right: 120px;
     }
     #state_routes_section_title{
-        margin-left: 175px;
+        margin-left: 155px;
     }
     #main_page_state_route_pictures{
-        margin-left: 160px;
+        margin-left: 140px;
     }
     #other_routes_and_highways_section_title{
-        margin-left: 150px;
+        margin-left: 140px;
     }
     #main_page_other_routes_and_highways_pictures{
-        margin-right: 120px;
+        margin-right: 110px;
     }
     .main_page_containers_content{
         margin-left: 30px;
     }
     #interstate_highways_page_button{
-        margin-left: 145px;
+        margin-left: 135px;
     }
     #us_highways_page_button{
-        margin-left: 160px;
+        margin-left: 150px;
     }
     #state_routes_page_button{
-        margin-left: 165px;
+        margin-left: 160px;
     }
     #other_routes_and_highways_page_button{
-        margin-left: 110px;
+        margin-left: 100px;
     }
     #help-button{
         margin-left: 160px;
     }
     .routes_of_america_contact_section_title{
-        margin-left: 165px;
+        margin-left: 150px;
     }
 }
 @keyframes bringInTitle{
