@@ -158,6 +158,9 @@
         width: 100px;
         height: 100px;
     }
+    .main_page_containers_content{
+        width: 98%;
+    }
     .routes_of_america_logo{
         margin-left: 225px;
     }
