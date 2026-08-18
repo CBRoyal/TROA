@@ -160,6 +160,8 @@
     }
     #routes_of_america_navbar{
         display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
         position: fixed;
         top: 0;
         left: 0;
@@ -168,11 +170,6 @@
         transform: translateX(-105%);
         transition: transform 0.3s ease;
         z-index: 1;
-    }
-    #routes_of_america_navbar .row{
-        display: flex;
-        flex-direction: column;
-        flex-wrap: wrap;
     }
     #routes_of_america_navbar .row .col-md a{
         padding: 20px 40px;
