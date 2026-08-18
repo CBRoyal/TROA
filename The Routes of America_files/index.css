@@ -76,7 +76,7 @@
 }
 #routes_of_america_navbar{
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
 }
 #routes_of_america_navbar{
     list-style-type: none;
