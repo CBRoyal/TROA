@@ -173,7 +173,6 @@
         display: flex;
         flex-direction: column;
         flex-wrap: wrap;
-        gap: 15px;
     }
     #routes_of_america_navbar .row .col-md a{
         padding: 20px 40px;
