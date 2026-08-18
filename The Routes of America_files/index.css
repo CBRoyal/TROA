@@ -170,18 +170,18 @@
         transition: transform 0.3s ease;
         z-index: 1;
     }
-    #routes_of_america_navbar .row .col-md a{
+    #routes_of_america_navbar a{
         padding: 20px 40px;
         margin-top: 10px;
     }
-    #routes_of_america_navbar .row .col-md a:hover{
+    #routes_of_america_navbar a:hover{
         color: var(--routes-of-america-main-webpage-text-color);
         background-color: var(--routes-of-america-navbar-link-hover-background-color);
     }
     #routes_of_america_navbar.open{
         transform: translateX(0);
     }
-    #routes_of_america_navbar.open .row .col-md a{
+    #routes_of_america_navbar.open a{
         position: fixed;
     }
     #openbtn{
