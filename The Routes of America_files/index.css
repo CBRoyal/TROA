@@ -223,7 +223,7 @@
     .routes_of_america_contact_section_title{
         margin-left: 275px;
     }
-    .routes_of_america_help_container_content{
+    .routes_of_america_help_container_content, #footer_text{
         width: 95%;
     }
     #help-button{
