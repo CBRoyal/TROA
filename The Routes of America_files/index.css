@@ -78,14 +78,14 @@
     display: flex;
     justify-content: center;
 }
-#routes_of_america_navbar .row{
+#routes_of_america_navbar{
     list-style-type: none;
     gap: 30px;
 }
-#routes_of_america_navbar .row .col-md a{
+#routes_of_america_navbar a{
     color: var(--routes-of-america-main-webpage-text-color);
 }
-#routes_of_america_navbar .row .col-md a:hover{
+#routes_of_america_navbar a:hover{
     color: var(--routes-of-america-navbar-link-hover-color);
 }
 #openbtn{
@@ -161,6 +161,7 @@
     #routes_of_america_navbar{
         display: flex;
         flex-direction: column;
+        gap: 30px;
         position: fixed;
         top: 0;
         left: 0;
