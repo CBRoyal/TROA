@@ -243,6 +243,9 @@
     #openbtn{
         bottom: 300px;
     }
+    #routes_of_america_navbar{
+        gap: 40px;
+    }
     #main_highway_title_image{
         margin-left: 90px;
         width: 300px;
